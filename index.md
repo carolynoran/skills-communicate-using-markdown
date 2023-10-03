@@ -4,3 +4,7 @@
 ``` SQL
 select * From custtable
 ```
+
+- [ ] Turn on GitHub Pagse
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
